@@ -5,7 +5,7 @@ Booming time-critical services, such as automated manufacturing and remote opera
 
 ![Image](https://github.com/Hyduni001/CTP_Model_for_CSQF/blob/main/csqf_flow.jpg)
 
-![Image](https://github.com/Hyduni001/CTP_Model_for_CSQF/blob/main/csqf_flow.pdf)
+![Image](https://github.com/Hyduni001/CTP_Model_for_CSQF/blob/main/ctp_csqf.jpg)
 
 
 # Reference
